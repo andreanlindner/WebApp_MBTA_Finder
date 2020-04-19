@@ -80,7 +80,7 @@ def find_stop_near(place_name):
 def main():
     # final test here
     place = input('Enter a place name in Boston such as "Fenway Park": ')
-    lat, lon = get_lat_long(place)
+    #lat, lon = get_lat_long(place)
     #print(lat, lon)
     #print(get_nearest_station(lat, lon))
 
